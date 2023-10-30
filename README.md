@@ -1,6 +1,7 @@
-### Olá, Sou o Armando Sampaio 👋🏻
+# Olá, Sou o Armando Sampaio 👋🏻
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-sampaio-32527b1b6/)
-## Atualmente estou cursando Ciência de computação(4 período) e meu foco é o Backend. 
+### Atualmente estou cursando Ciência de computação(4 período) e meu foco é o Backend. 
+### Espero poder Lotar esse github de conteúdo em breve.
 
 
 
